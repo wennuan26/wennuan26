@@ -2,9 +2,10 @@
 - 👀 I’m interested in various feilds
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on with various people with lot of talents 
-- 📫 through email
-- 😄 Pronouns: she
-- ⚡ Fun fact: sleeper
+- 📫 through email zhaomingli26@gmail.com
+-                   thathsandi.uog06@edu.lnbti.lk
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: sleeper/Gamer
 
 <!---
 wennuan26/wennuan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
