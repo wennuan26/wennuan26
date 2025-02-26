@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @wennuan26
-- 👀 I’m interested in various feilds
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on with various people with lot of talents 
 - 📫 through email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: sleeper
