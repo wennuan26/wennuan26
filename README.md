@@ -1,4 +1,4 @@
-# 𖡼.𖤣⛇☃︎ Chei | wennuan26 (she/her)
+# 𖡼.𖤣⛇☃︎ Chei |(she/her)
 
 > _A Lone Wolf wandering the codeverse_ 🕊️🧭  
 > "Even silence speaks, if you listen closely." — Chei　☃︎⚛︎
