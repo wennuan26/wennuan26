@@ -1,7 +1,6 @@
 # 𖡼.𖤣⛇☃︎ Chei |(she/her)
 
-> _A Lone Wolf wandering the codeverse_ 🕊️🧭  
-> "Even silence speaks, if you listen closely." — Chei　☃︎⚛︎
+> _A Lone Wolf wandering the codeverse_ — Chei　☃︎⚛︎
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wennuan26&color=violet&style=flat-square)
 
