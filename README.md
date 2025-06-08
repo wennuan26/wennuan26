@@ -31,7 +31,7 @@ I enjoy designing soft and clean UIs, building human-friendly applications, and 
 ![Frieren GIF](https://github.com/wennuan26/Frieren/blob/main/frieren-kuru-kuru.gif)!𖡼.𖤣𖥧𖡼.𖤣𖥧
 
 - 🗳️ Developing #**"梦友"** — a conceptually aesthetic social media app (Java-based)
-- 🌙 Building minimal, elegant UIs with **Tkinter** + **Figma**
+- 🌙 Building minimal, elegant UIs with **Swing** + **Figma**
 - 🧭 Practicing UI logic, animations, and Java backend design
 
 ---
@@ -39,9 +39,9 @@ I enjoy designing soft and clean UIs, building human-friendly applications, and 
 ### 🧊 About Me
 
 - ⚡ Fun Fact: I can fall asleep faster than a background thread
-- 🌸 Aesthetic: Calm, clean, and concept-first (inspired by Frieren no longer wandering alone...)
+- 🌸 Aesthetic: Calm, clean, (inspired by Frieren no longer wandering alone...)
 - 🧠 Learning: Clean architecture, intuitive UI/UX, and casual 中文
-- 🪞 Motto: _"Silence isn’t empty. It’s full of answers."_
+- 🪞"Silence isn’t empty. It’s full of answers."_
 
 ---
 
