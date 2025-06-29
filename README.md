@@ -14,7 +14,7 @@ I enjoy designing soft and clean UIs, building human-friendly applications, and 
 
 ---
 
-### 🎨 Design + Dev Tools I Love
+### 🎨 Design + Dev Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -35,15 +35,6 @@ I enjoy designing soft and clean UIs, building human-friendly applications, and 
 
 ---
 
-### 🧊 About Me
-
-- ⚡ Fun Fact: I can fall asleep faster than a background thread
-- 🌸 Aesthetic: Calm, clean, (inspired by Frieren no longer wandering alone...)
-- 🧠 Learning: Clean architecture, intuitive UI/UX, and casual 中文
-- 🪞"Silence isn’t empty. It’s full of answers."_
-
----
-
 ### 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhaomingli26@gmail.com)
@@ -51,7 +42,3 @@ I enjoy designing soft and clean UIs, building human-friendly applications, and 
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0007-7560-6671)
 
 ---
-
-### 📌 Pinned Project
-
-[![Vote Now](https://img.shields.io/badge/-VOTE--NOW--APP-6c63ff?style=flat-square&logo=python&logoColor=white)](https://github.com/wennuan26/VOTE-NOW-app--for-election-purposes--EXAMPLE)
