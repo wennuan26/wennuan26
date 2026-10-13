@@ -9,7 +9,7 @@
 ### 👋 Hello, World!
 
 I'm **Chei**, a quiet thinker, creative coder, and minimalist dreamer from **Sri Lanka** 🇱🇰  
-Currently pursuing my **2nd year in Computing Engineering at LNBTI**,  
+Currently pursuing my **3rd year in Computing Engineering at LNBTI**,  
 I enjoy designing soft and clean UIs, building human-friendly applications, and collecting quiet moments through anime and design.
 
 ---
