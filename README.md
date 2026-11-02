@@ -119,13 +119,6 @@ Exploring new technologies, application architecture, creative interfaces, and s
 
 ## 04. GitHub Activity
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wennuan26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennuan26&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=wennuan26&theme=tokyonight&hide_border=true&border_radius=12" />
 
